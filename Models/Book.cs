@@ -8,6 +8,7 @@ namespace MultimediaDatabase.Models
 {
     public class Book
     {
+        //
         public int bookID { get; set; }
 
         public string readerName { get; set; }
